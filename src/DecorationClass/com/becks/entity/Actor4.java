@@ -3,7 +3,7 @@ package DecorationClass.com.becks.entity;
 public class Actor4 extends Actor1 {
 	public void performance(){
 		this.sing();
-		super.performance();;
+		super.performance();
 	}
 	
 	public void sing(){
